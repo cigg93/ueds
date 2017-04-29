@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>MAVEN</ID>
+  <OriginalElement>com.ztt:ueds:1.0-SNAPSHOT</OriginalElement>
+  <nodes>
+    <node x="0.0" y="305.525">com.ztt:ueds:1.0-SNAPSHOT</node>
+    <node x="142.0" y="305.525">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0</node>
+    <node x="744.0" y="310.0555288461539">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE</node>
+    <node x="1322.5" y="375.8921474358975">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.springframework.boot:spring-boot:jar:1.5.2.RELEASE</node>
+    <node x="1519.0" y="388.3921474358975">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.springframework.boot:spring-boot:jar:1.5.2.RELEASE/org.springframework:spring-context:jar:4.3.7.RELEASE</node>
+    <node x="1723.0" y="392.025">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.springframework.boot:spring-boot:jar:1.5.2.RELEASE/org.springframework:spring-context:jar:4.3.7.RELEASE/org.springframework:spring-aop:jar:4.3.7.RELEASE</node>
+    <node x="1903.0" y="359.775">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.springframework.boot:spring-boot:jar:1.5.2.RELEASE/org.springframework:spring-context:jar:4.3.7.RELEASE/org.springframework:spring-expression:jar:4.3.7.RELEASE</node>
+    <node x="1030.0" y="406.775">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:1.5.2.RELEASE</node>
+    <node x="1027.0" y="172.49999999999997">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.2.RELEASE</node>
+    <node x="1312.0" y="50.61714743589749">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.2.RELEASE/ch.qos.logback:logback-classic:jar:1.1.11</node>
+    <node x="1524.5" y="0.0">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.2.RELEASE/ch.qos.logback:logback-classic:jar:1.1.11/ch.qos.logback:logback-core:jar:1.1.11</node>
+    <node x="1540.0" y="68.99999999999994">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.2.RELEASE/ch.qos.logback:logback-classic:jar:1.1.11/org.slf4j:slf4j-api:jar:1.7.22</node>
+    <node x="1320.5" y="276.0">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.2.RELEASE/org.slf4j:jcl-over-slf4j:jar:1.7.24</node>
+    <node x="1540.0" y="276.0">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.2.RELEASE/org.slf4j:jcl-over-slf4j:jar:1.7.24/org.slf4j:slf4j-api:jar:1.7.24</node>
+    <node x="1327.0" y="206.99999999999997">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.2.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.24</node>
+    <node x="1540.0" y="206.99999999999997">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.2.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.24/org.slf4j:slf4j-api:jar:1.7.22</node>
+    <node x="1312.0" y="137.99999999999997">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.2.RELEASE/org.slf4j:log4j-over-slf4j:jar:1.7.24</node>
+    <node x="1540.0" y="137.99999999999997">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.2.RELEASE/org.slf4j:log4j-over-slf4j:jar:1.7.24/org.slf4j:slf4j-api:jar:1.7.22</node>
+    <node x="2127.0" y="384.7671474358975">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.springframework:spring-core:jar:4.3.7.RELEASE</node>
+    <node x="1081.5" y="337.775">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.yaml:snakeyaml:jar:1.17</node>
+    <node x="429.0" y="490.021233974359">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.2.RELEASE</node>
+    <node x="767.0" y="483.025">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.2.RELEASE/org.apache.tomcat:tomcat-jdbc:jar:8.5.11</node>
+    <node x="1080.5" y="483.025">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.2.RELEASE/org.apache.tomcat:tomcat-jdbc:jar:8.5.11/org.apache.tomcat:tomcat-juli:jar:8.5.11</node>
+    <node x="1529.5" y="508.025">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.2.RELEASE/org.springframework:spring-jdbc:jar:4.3.7.RELEASE</node>
+    <node x="1918.0" y="454.53798076923084">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.2.RELEASE/org.springframework:spring-jdbc:jar:4.3.7.RELEASE/org.springframework:spring-beans:jar:4.3.7.RELEASE</node>
+    <node x="1728.5" y="508.025">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.2.RELEASE/org.springframework:spring-jdbc:jar:4.3.7.RELEASE/org.springframework:spring-tx:jar:4.3.7.RELEASE</node>
+    <node x="694.0" y="414.025">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:jar:1.3.0</node>
+    <node x="481.5" y="208.8055288461539">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.mybatis:mybatis:jar:3.4.4</node>
+    <node x="459.0" y="277.8055288461539">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.mybatis:mybatis-spring:jar:1.3.1</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.2.RELEASE/org.springframework:spring-jdbc:jar:4.3.7.RELEASE" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.2.RELEASE/org.springframework:spring-jdbc:jar:4.3.7.RELEASE/org.springframework:spring-beans:jar:4.3.7.RELEASE">
+      <point x="51.5" y="-9.666666666666629" />
+      <point x="1723.0" y="477.5388621794872" />
+      <point x="1823.0" y="477.5388621794872" />
+      <point x="-57.0" y="3.625" />
+    </edge>
+    <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.springframework.boot:spring-boot:jar:1.5.2.RELEASE">
+      <point x="76.5" y="-0.0" />
+      <point x="947.0" y="324.5555288461539" />
+      <point x="1027.0" y="327.275" />
+      <point x="1232.0" y="327.275" />
+      <point x="-53.0" y="-7.25" />
+    </edge>
+    <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.springframework.boot:spring-boot:jar:1.5.2.RELEASE/org.springframework:spring-context:jar:4.3.7.RELEASE" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.springframework.boot:spring-boot:jar:1.5.2.RELEASE/org.springframework:spring-context:jar:4.3.7.RELEASE/org.springframework:spring-aop:jar:4.3.7.RELEASE">
+      <point x="62.0" y="3.625" />
+      <point x="-50.0" y="-0.0" />
+    </edge>
+    <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.mybatis:mybatis:jar:3.4.4">
+      <point x="103.5" y="-11.600000000000023" />
+      <point x="429.0" y="223.3055288461539" />
+      <point x="-40.0" y="-0.0" />
+    </edge>
+    <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:1.5.2.RELEASE" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.springframework.boot:spring-boot:jar:1.5.2.RELEASE">
+      <point x="99.5" y="-0.0" />
+      <point x="-53.0" y="7.25" />
+    </edge>
+    <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.2.RELEASE" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.2.RELEASE/org.apache.tomcat:tomcat-jdbc:jar:8.5.11">
+      <point x="92.5" y="-0.0" />
+      <point x="694.0" y="497.525" />
+      <point x="-53.5" y="-0.0" />
+    </edge>
+    <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.2.RELEASE/org.springframework:spring-jdbc:jar:4.3.7.RELEASE" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.2.RELEASE/org.springframework:spring-jdbc:jar:4.3.7.RELEASE/org.springframework:spring-tx:jar:4.3.7.RELEASE">
+      <point x="51.5" y="-0.0" />
+      <point x="-44.5" y="-0.0" />
+    </edge>
+    <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.2.RELEASE" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.2.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.24">
+      <point x="102.5" y="3.625" />
+      <point x="1312.0" y="221.49999999999997" />
+      <point x="-48.5" y="-0.0" />
+    </edge>
+    <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.springframework.boot:spring-boot:jar:1.5.2.RELEASE/org.springframework:spring-context:jar:4.3.7.RELEASE" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.2.RELEASE/org.springframework:spring-jdbc:jar:4.3.7.RELEASE/org.springframework:spring-beans:jar:4.3.7.RELEASE">
+      <point x="62.0" y="10.875" />
+      <point x="1723.0" y="446.83661858974364" />
+      <point x="1823.0" y="446.83661858974364" />
+      <point x="1903.0" y="465.41298076923084" />
+      <point x="-57.0" y="-3.625" />
+    </edge>
+    <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.springframework.boot:spring-boot:jar:1.5.2.RELEASE/org.springframework:spring-context:jar:4.3.7.RELEASE" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.springframework.boot:spring-boot:jar:1.5.2.RELEASE/org.springframework:spring-context:jar:4.3.7.RELEASE/org.springframework:spring-expression:jar:4.3.7.RELEASE">
+      <point x="62.0" y="-3.625" />
+      <point x="1723.0" y="374.275" />
+      <point x="-72.0" y="-0.0" />
+    </edge>
+    <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.springframework.boot:spring-boot:jar:1.5.2.RELEASE/org.springframework:spring-context:jar:4.3.7.RELEASE" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.springframework:spring-core:jar:4.3.7.RELEASE">
+      <point x="62.0" y="-10.875" />
+      <point x="1723.0" y="349.275" />
+      <point x="2047.0" y="349.275" />
+      <point x="-52.0" y="-5.4375" />
+    </edge>
+    <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.2.RELEASE/org.springframework:spring-jdbc:jar:4.3.7.RELEASE/org.springframework:spring-tx:jar:4.3.7.RELEASE" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.springframework:spring-core:jar:4.3.7.RELEASE">
+      <point x="44.5" y="7.25" />
+      <point x="2047.0" y="529.775" />
+      <point x="-52.0" y="9.0625" />
+    </edge>
+    <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.2.RELEASE">
+      <point x="103.5" y="11.600000000000023" />
+      <point x="-92.5" y="-0.0" />
+    </edge>
+    <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.2.RELEASE" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.2.RELEASE/org.slf4j:log4j-over-slf4j:jar:1.7.24">
+      <point x="102.5" y="-3.625" />
+      <point x="-63.5" y="-0.0" />
+    </edge>
+    <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.2.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.24" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.2.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.24/org.slf4j:slf4j-api:jar:1.7.22">
+      <point x="48.5" y="-0.0" />
+      <point x="-41.0" y="-0.0" />
+    </edge>
+    <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.yaml:snakeyaml:jar:1.17">
+      <point x="76.5" y="5.800000000000011" />
+      <point x="947.0" y="330.3555288461539" />
+      <point x="1027.0" y="352.275" />
+      <point x="-48.0" y="-0.0" />
+    </edge>
+    <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.2.RELEASE">
+      <point x="76.5" y="-11.600000000000023" />
+      <point x="947.0" y="312.95552884615387" />
+      <point x="-102.5" y="-0.0" />
+    </edge>
+    <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:jar:1.3.0">
+      <point x="103.5" y="5.800000000000011" />
+      <point x="429.0" y="428.525" />
+      <point x="-126.5" y="-0.0" />
+    </edge>
+    <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.2.RELEASE" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.2.RELEASE/org.springframework:spring-jdbc:jar:4.3.7.RELEASE">
+      <point x="92.5" y="9.666666666666629" />
+      <point x="694.0" y="522.525" />
+      <point x="-51.5" y="-0.0" />
+    </edge>
+    <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.springframework.boot:spring-boot:jar:1.5.2.RELEASE" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.springframework:spring-core:jar:4.3.7.RELEASE">
+      <point x="53.0" y="-7.25" />
+      <point x="1519.0" y="345.65" />
+      <point x="2047.0" y="345.65" />
+      <point x="-52.0" y="-9.0625" />
+    </edge>
+    <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:jar:1.3.0" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:1.5.2.RELEASE">
+      <point x="126.5" y="-0.0" />
+      <point x="-99.5" y="7.25" />
+    </edge>
+    <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.2.RELEASE/org.springframework:spring-jdbc:jar:4.3.7.RELEASE" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.springframework:spring-core:jar:4.3.7.RELEASE">
+      <point x="51.5" y="9.666666666666629" />
+      <point x="1723.0" y="547.525" />
+      <point x="2047.0" y="547.525" />
+      <point x="-52.0" y="12.6875" />
+    </edge>
+    <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.springframework.boot:spring-boot:jar:1.5.2.RELEASE" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.springframework.boot:spring-boot:jar:1.5.2.RELEASE/org.springframework:spring-context:jar:4.3.7.RELEASE">
+      <point x="53.0" y="7.25" />
+      <point x="-62.0" y="-0.0" />
+    </edge>
+    <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.2.RELEASE/ch.qos.logback:logback-classic:jar:1.1.11" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.2.RELEASE/ch.qos.logback:logback-classic:jar:1.1.11/org.slf4j:slf4j-api:jar:1.7.22">
+      <point x="63.5" y="7.25" />
+      <point x="1519.0" y="83.49999999999994" />
+      <point x="-41.0" y="-0.0" />
+    </edge>
+    <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.2.RELEASE/org.slf4j:jcl-over-slf4j:jar:1.7.24" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.2.RELEASE/org.slf4j:jcl-over-slf4j:jar:1.7.24/org.slf4j:slf4j-api:jar:1.7.24">
+      <point x="55.0" y="-0.0" />
+      <point x="-41.0" y="-0.0" />
+    </edge>
+    <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:1.5.2.RELEASE">
+      <point x="76.5" y="11.600000000000023" />
+      <point x="947.0" y="336.1555288461539" />
+      <point x="-99.5" y="-7.25" />
+    </edge>
+    <edge source="com.ztt:ueds:1.0-SNAPSHOT" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0">
+      <point x="31.0" y="-0.0" />
+      <point x="-103.5" y="-0.0" />
+    </edge>
+    <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.2.RELEASE/ch.qos.logback:logback-classic:jar:1.1.11" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.2.RELEASE/ch.qos.logback:logback-classic:jar:1.1.11/ch.qos.logback:logback-core:jar:1.1.11">
+      <point x="63.5" y="-7.25" />
+      <point x="-56.5" y="-0.0" />
+    </edge>
+    <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.springframework.boot:spring-boot:jar:1.5.2.RELEASE/org.springframework:spring-context:jar:4.3.7.RELEASE/org.springframework:spring-aop:jar:4.3.7.RELEASE" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.springframework:spring-core:jar:4.3.7.RELEASE">
+      <point x="50.0" y="-7.25" />
+      <point x="2047.0" y="399.275" />
+      <point x="-52.0" y="1.8125" />
+    </edge>
+    <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.2.RELEASE/org.springframework:spring-jdbc:jar:4.3.7.RELEASE/org.springframework:spring-tx:jar:4.3.7.RELEASE" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.2.RELEASE/org.springframework:spring-jdbc:jar:4.3.7.RELEASE/org.springframework:spring-beans:jar:4.3.7.RELEASE">
+      <point x="44.5" y="-7.25" />
+      <point x="1903.0" y="479.91298076923084" />
+      <point x="-57.0" y="10.875" />
+    </edge>
+    <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.2.RELEASE/org.springframework:spring-jdbc:jar:4.3.7.RELEASE/org.springframework:spring-beans:jar:4.3.7.RELEASE" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.springframework:spring-core:jar:4.3.7.RELEASE">
+      <point x="57.0" y="-0.0" />
+      <point x="2047.0" y="469.03798076923084" />
+      <point x="-52.0" y="5.4375" />
+    </edge>
+    <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.springframework.boot:spring-boot:jar:1.5.2.RELEASE/org.springframework:spring-context:jar:4.3.7.RELEASE/org.springframework:spring-expression:jar:4.3.7.RELEASE" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.springframework:spring-core:jar:4.3.7.RELEASE">
+      <point x="72.0" y="-0.0" />
+      <point x="-52.0" y="-1.8125" />
+    </edge>
+    <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.2.RELEASE" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.2.RELEASE/org.slf4j:jcl-over-slf4j:jar:1.7.24">
+      <point x="102.5" y="10.875" />
+      <point x="-55.0" y="-0.0" />
+    </edge>
+    <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.2.RELEASE" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.2.RELEASE/ch.qos.logback:logback-classic:jar:1.1.11">
+      <point x="102.5" y="-10.875" />
+      <point x="-63.5" y="-0.0" />
+    </edge>
+    <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.2.RELEASE/org.slf4j:log4j-over-slf4j:jar:1.7.24" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.2.RELEASE/org.slf4j:log4j-over-slf4j:jar:1.7.24/org.slf4j:slf4j-api:jar:1.7.22">
+      <point x="63.5" y="-0.0" />
+      <point x="-41.0" y="-0.0" />
+    </edge>
+    <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.2.RELEASE" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE">
+      <point x="92.5" y="-9.666666666666686" />
+      <point x="694.0" y="331.8055288461539" />
+      <point x="-76.5" y="7.25" />
+    </edge>
+    <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.springframework.boot:spring-boot:jar:1.5.2.RELEASE/org.springframework:spring-context:jar:4.3.7.RELEASE/org.springframework:spring-aop:jar:4.3.7.RELEASE" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.2.RELEASE/org.springframework:spring-jdbc:jar:4.3.7.RELEASE/org.springframework:spring-beans:jar:4.3.7.RELEASE">
+      <point x="50.0" y="7.25" />
+      <point x="1903.0" y="458.16298076923084" />
+      <point x="-57.0" y="-10.875" />
+    </edge>
+    <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE/org.springframework:spring-core:jar:4.3.7.RELEASE">
+      <point x="76.5" y="-5.800000000000011" />
+      <point x="947.0" y="318.7555288461539" />
+      <point x="1027.0" y="315.5" />
+      <point x="2047.0" y="315.5" />
+      <point x="-52.0" y="-12.6875" />
+    </edge>
+    <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.mybatis:mybatis-spring:jar:1.3.1">
+      <point x="103.5" y="-5.800000000000011" />
+      <point x="429.0" y="292.3055288461539" />
+      <point x="-62.5" y="-0.0" />
+    </edge>
+    <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter:jar:1.5.2.RELEASE">
+      <point x="103.5" y="-0.0" />
+      <point x="429.0" y="317.3055288461539" />
+      <point x="-76.5" y="-7.25" />
+    </edge>
+    <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.2.RELEASE/org.apache.tomcat:tomcat-jdbc:jar:8.5.11" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.2.RELEASE/org.apache.tomcat:tomcat-jdbc:jar:8.5.11/org.apache.tomcat:tomcat-juli:jar:8.5.11">
+      <point x="53.5" y="-0.0" />
+      <point x="-49.0" y="-0.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.6210573078631719" x="1115.5" y="274.0" />
+  <SelectedNodes />
+  <Categories />
+  <VISIBILITY>All</VISIBILITY>
+</Diagram>
+
